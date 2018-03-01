@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Protek!</h1>
+        <h1>Hello Protek!this is suguna</h1>
     </body>
 </html>
 <form name="name input form" action="response.jsp">
